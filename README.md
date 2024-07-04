@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Folahanmi(Folakuku)
 
 <!--
 **Folakuku/Folakuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <!-- You can add a custom banner by replacing the URL below with your own image URL -->
 <!-- ![Header](URL_TO_YOUR_BANNER_IMAGE) -->
 
-### Hi there 👋, I'm Folakuku
 
 ---
 
@@ -34,7 +33,7 @@ Here are some ideas to get you started:
 - 🧩 Fun fact: I can't solve a Rubik's cube in under a minute!
 
   
-## 📫 How to reach me:
+### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://linkedin.com/in/folakuku)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2)](https://x.com/folakuku)
 [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail&logoColor=EA4335)](mailto:ojokukufolahanmi@gmail.com)
